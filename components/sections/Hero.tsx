@@ -79,7 +79,7 @@ export default function Hero() {
             <a href="https://github.com/Sankalpa7" target="_blank" className="w-11 h-11 rounded-full border border-gray-300 dark:border-zinc-800 flex items-center justify-center text-gray-500 dark:text-zinc-500 hover:text-cyan-500 hover:border-cyan-500 transition-all duration-200">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://linkedin.com/in/sankalpa-neupane" target="_blank" className="w-11 h-11 rounded-full border border-gray-300 dark:border-zinc-800 flex items-center justify-center text-gray-500 dark:text-zinc-500 hover:text-cyan-500 hover:border-cyan-500 transition-all duration-200">
+            <a href="https://www.linkedin.com/in/sankalpaneupane7/" target="_blank" className="w-11 h-11 rounded-full border border-gray-300 dark:border-zinc-800 flex items-center justify-center text-gray-500 dark:text-zinc-500 hover:text-cyan-500 hover:border-cyan-500 transition-all duration-200">
               <Linkedin className="w-5 h-5" />
             </a>
             <a href="mailto:sankalpaneupane7@gmail.com" className="w-11 h-11 rounded-full border border-gray-300 dark:border-zinc-800 flex items-center justify-center text-gray-500 dark:text-zinc-500 hover:text-cyan-500 hover:border-cyan-500 transition-all duration-200">
